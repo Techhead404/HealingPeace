@@ -5,7 +5,7 @@
 <template>
   <main>
     <p>Welcome to the new Healing Peace Massage website. Where you can view and schedule services.</p>
-    
+    <p>Check are services page </p>
   </main>
 </template>
 
